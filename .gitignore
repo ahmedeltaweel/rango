@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 tango_with_django_project/db.sqlite3
+tango_with_django_project/rango/__pycache__/
+tango_with_django_project/rango/migrations/
+tango_with_django_project/tango_with_django_project/__pycache__/
